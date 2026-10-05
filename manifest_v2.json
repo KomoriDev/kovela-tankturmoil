@@ -1,0 +1,226 @@
+{
+  "item": {
+    "id": "com.komoridev.tankturmoil",
+    "restype": "quick_app",
+    "name": "坦克动荡",
+    "description": "坦克动荡 | 转角交锋，弹道制胜\n\n操控坦克灵活移动，点按屏幕发射子弹。利用墙壁反弹改变弹道，在狭小战场中寻找最佳射击角度，一击制胜！\n\n经典玩法再现，复现童年乐趣，随时随地来一场紧张刺激的坦克对决",
+    "preview": [
+      "media/cover.png",
+      "media/mi10.png",
+      "media/mi10pro.png",
+      "media/xiaomiwatchs5.png",
+      "media/mi10-band.png",
+      "media/mi10pro-band.png",
+      "media/xiaomiwatchs5-watch.png"
+    ],
+    "icon": "media/icon.png",
+    "cover": "media/cover.png",
+    "author": [
+      {
+        "name": "KomoriDev",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "官群",
+      "url": "https://qm.qq.com/q/1k0rVsItwQ",
+      "icon": "chat-circle"
+    },
+    {
+      "title": "爱发电",
+      "url": "https://afdian.com/item/285dd096af2511f1ac1552540025c377?utm_source=copylink&utm_medium=link",
+      "icon": "link-simple"
+    }
+  ],
+  "downloads": {
+    "xmrw5": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.0.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🎉 初次见面"
+        }
+      ]
+    },
+    "xmrw5xring": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.0.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🎉 初次见面"
+        }
+      ]
+    },
+    "xmrw6": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.0.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🎉 初次见面"
+        }
+      ]
+    },
+    "xmb10": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.0.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🎉 初次见面"
+        }
+      ]
+    },
+    "xmb10nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.0.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🎉 初次见面"
+        }
+      ]
+    },
+    "xmb10p": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.0.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🎉 初次见面"
+        }
+      ]
+    },
+    "xmb11": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.0.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🎉 初次见面"
+        }
+      ]
+    },
+    "xmb11nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.0.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🎉 初次见面"
+        }
+      ]
+    },
+    "xmb9": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.0.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🎉 初次见面"
+        }
+      ]
+    },
+    "xmb9p": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.0.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🎉 初次见面"
+        }
+      ]
+    },
+    "xmws3": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.0.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🎉 初次见面"
+        }
+      ]
+    },
+    "xmws4xring": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.0.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🎉 初次见面"
+        }
+      ]
+    },
+    "xmws441": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.0.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🎉 初次见面"
+        }
+      ]
+    },
+    "xmws4": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.0.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🎉 初次见面"
+        }
+      ]
+    },
+    "xmws541": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.0.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🎉 初次见面"
+        }
+      ]
+    },
+    "xmws5": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.0.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🎉 初次见面"
+        }
+      ]
+    }
+  },
+  "ext": {
+    "enableAstroBoxCreatorFeatures": true,
+    "bundledResources": {
+      "required": [
+        {
+          "type": "plugin",
+          "id": "Kovela"
+        }
+      ]
+    }
+  }
+}
