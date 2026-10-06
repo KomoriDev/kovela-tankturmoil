@@ -36,10 +36,14 @@
   ],
   "downloads": {
     "xmrw5": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.0.rpk",
-      "versionCode": 1,
+      "version": "1.0.1",
+      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.1.rpk",
+      "versionCode": 2,
       "updatelogs": [
+        {
+          "version": "1.0.1",
+          "content": "- 🐛 修复部分设备无法正常结束游戏的问题\n- 💄 缩小图标大小"
+        },
         {
           "version": "1.0.0",
           "content": "- 🎉 初次见面"
@@ -47,10 +51,14 @@
       ]
     },
     "xmrw5xring": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.0.rpk",
-      "versionCode": 1,
+      "version": "1.0.1",
+      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.1.rpk",
+      "versionCode": 2,
       "updatelogs": [
+        {
+          "version": "1.0.1",
+          "content": "- 🐛 修复部分设备无法正常结束游戏的问题\n- 💄 缩小图标大小"
+        },
         {
           "version": "1.0.0",
           "content": "- 🎉 初次见面"
@@ -58,10 +66,14 @@
       ]
     },
     "xmrw6": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.0.rpk",
-      "versionCode": 1,
+      "version": "1.0.1",
+      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.1.rpk",
+      "versionCode": 2,
       "updatelogs": [
+        {
+          "version": "1.0.1",
+          "content": "- 🐛 修复部分设备无法正常结束游戏的问题\n- 💄 缩小图标大小"
+        },
         {
           "version": "1.0.0",
           "content": "- 🎉 初次见面"
@@ -69,10 +81,14 @@
       ]
     },
     "xmb10": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.0.rpk",
-      "versionCode": 1,
+      "version": "1.0.1",
+      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.1.rpk",
+      "versionCode": 2,
       "updatelogs": [
+        {
+          "version": "1.0.1",
+          "content": "- 🐛 修复部分设备无法正常结束游戏的问题\n- 💄 缩小图标大小"
+        },
         {
           "version": "1.0.0",
           "content": "- 🎉 初次见面"
@@ -80,10 +96,14 @@
       ]
     },
     "xmb10nfc": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.0.rpk",
-      "versionCode": 1,
+      "version": "1.0.1",
+      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.1.rpk",
+      "versionCode": 2,
       "updatelogs": [
+        {
+          "version": "1.0.1",
+          "content": "- 🐛 修复部分设备无法正常结束游戏的问题\n- 💄 缩小图标大小"
+        },
         {
           "version": "1.0.0",
           "content": "- 🎉 初次见面"
@@ -91,10 +111,14 @@
       ]
     },
     "xmb10p": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.0.rpk",
-      "versionCode": 1,
+      "version": "1.0.1",
+      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.1.rpk",
+      "versionCode": 2,
       "updatelogs": [
+        {
+          "version": "1.0.1",
+          "content": "- 🐛 修复部分设备无法正常结束游戏的问题\n- 💄 缩小图标大小"
+        },
         {
           "version": "1.0.0",
           "content": "- 🎉 初次见面"
@@ -102,10 +126,14 @@
       ]
     },
     "xmb11": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.0.rpk",
-      "versionCode": 1,
+      "version": "1.0.1",
+      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.1.rpk",
+      "versionCode": 2,
       "updatelogs": [
+        {
+          "version": "1.0.1",
+          "content": "- 🐛 修复部分设备无法正常结束游戏的问题\n- 💄 缩小图标大小"
+        },
         {
           "version": "1.0.0",
           "content": "- 🎉 初次见面"
@@ -113,10 +141,14 @@
       ]
     },
     "xmb11nfc": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.0.rpk",
-      "versionCode": 1,
+      "version": "1.0.1",
+      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.1.rpk",
+      "versionCode": 2,
       "updatelogs": [
+        {
+          "version": "1.0.1",
+          "content": "- 🐛 修复部分设备无法正常结束游戏的问题\n- 💄 缩小图标大小"
+        },
         {
           "version": "1.0.0",
           "content": "- 🎉 初次见面"
@@ -124,10 +156,14 @@
       ]
     },
     "xmb9": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.0.rpk",
-      "versionCode": 1,
+      "version": "1.0.1",
+      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.1.rpk",
+      "versionCode": 2,
       "updatelogs": [
+        {
+          "version": "1.0.1",
+          "content": "- 🐛 修复部分设备无法正常结束游戏的问题\n- 💄 缩小图标大小"
+        },
         {
           "version": "1.0.0",
           "content": "- 🎉 初次见面"
@@ -135,10 +171,14 @@
       ]
     },
     "xmb9p": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.0.rpk",
-      "versionCode": 1,
+      "version": "1.0.1",
+      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.1.rpk",
+      "versionCode": 2,
       "updatelogs": [
+        {
+          "version": "1.0.1",
+          "content": "- 🐛 修复部分设备无法正常结束游戏的问题\n- 💄 缩小图标大小"
+        },
         {
           "version": "1.0.0",
           "content": "- 🎉 初次见面"
@@ -146,10 +186,14 @@
       ]
     },
     "xmws3": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.0.rpk",
-      "versionCode": 1,
+      "version": "1.0.1",
+      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.1.rpk",
+      "versionCode": 2,
       "updatelogs": [
+        {
+          "version": "1.0.1",
+          "content": "- 🐛 修复部分设备无法正常结束游戏的问题\n- 💄 缩小图标大小"
+        },
         {
           "version": "1.0.0",
           "content": "- 🎉 初次见面"
@@ -157,10 +201,14 @@
       ]
     },
     "xmws4xring": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.0.rpk",
-      "versionCode": 1,
+      "version": "1.0.1",
+      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.1.rpk",
+      "versionCode": 2,
       "updatelogs": [
+        {
+          "version": "1.0.1",
+          "content": "- 🐛 修复部分设备无法正常结束游戏的问题\n- 💄 缩小图标大小"
+        },
         {
           "version": "1.0.0",
           "content": "- 🎉 初次见面"
@@ -168,10 +216,14 @@
       ]
     },
     "xmws441": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.0.rpk",
-      "versionCode": 1,
+      "version": "1.0.1",
+      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.1.rpk",
+      "versionCode": 2,
       "updatelogs": [
+        {
+          "version": "1.0.1",
+          "content": "- 🐛 修复部分设备无法正常结束游戏的问题\n- 💄 缩小图标大小"
+        },
         {
           "version": "1.0.0",
           "content": "- 🎉 初次见面"
@@ -179,10 +231,14 @@
       ]
     },
     "xmws4": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.0.rpk",
-      "versionCode": 1,
+      "version": "1.0.1",
+      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.1.rpk",
+      "versionCode": 2,
       "updatelogs": [
+        {
+          "version": "1.0.1",
+          "content": "- 🐛 修复部分设备无法正常结束游戏的问题\n- 💄 缩小图标大小"
+        },
         {
           "version": "1.0.0",
           "content": "- 🎉 初次见面"
@@ -190,10 +246,14 @@
       ]
     },
     "xmws541": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.0.rpk",
-      "versionCode": 1,
+      "version": "1.0.1",
+      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.1.rpk",
+      "versionCode": 2,
       "updatelogs": [
+        {
+          "version": "1.0.1",
+          "content": "- 🐛 修复部分设备无法正常结束游戏的问题\n- 💄 缩小图标大小"
+        },
         {
           "version": "1.0.0",
           "content": "- 🎉 初次见面"
@@ -201,10 +261,14 @@
       ]
     },
     "xmws5": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.0.rpk",
-      "versionCode": 1,
+      "version": "1.0.1",
+      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.1.rpk",
+      "versionCode": 2,
       "updatelogs": [
+        {
+          "version": "1.0.1",
+          "content": "- 🐛 修复部分设备无法正常结束游戏的问题\n- 💄 缩小图标大小"
+        },
         {
           "version": "1.0.0",
           "content": "- 🎉 初次见面"
