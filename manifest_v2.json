@@ -36,10 +36,14 @@
   ],
   "downloads": {
     "xmrw5": {
-      "version": "1.0.2",
-      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.2.rpk",
-      "versionCode": 3,
+      "version": "1.0.3",
+      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.3.rpk",
+      "versionCode": 4,
       "updatelogs": [
+        {
+          "version": "1.0.3",
+          "content": "- 🚸 显示互连错误详情，并消除虚假的接收失败提示"
+        },
         {
           "version": "1.0.2",
           "content": "- ⚡️ 优化激活体验"
@@ -55,10 +59,14 @@
       ]
     },
     "xmrw5xring": {
-      "version": "1.0.2",
-      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.2.rpk",
-      "versionCode": 3,
+      "version": "1.0.3",
+      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.3.rpk",
+      "versionCode": 4,
       "updatelogs": [
+        {
+          "version": "1.0.3",
+          "content": "- 🚸 显示互连错误详情，并消除虚假的接收失败提示"
+        },
         {
           "version": "1.0.2",
           "content": "- ⚡️ 优化激活体验"
@@ -74,10 +82,14 @@
       ]
     },
     "xmrw6": {
-      "version": "1.0.2",
-      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.2.rpk",
-      "versionCode": 3,
+      "version": "1.0.3",
+      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.3.rpk",
+      "versionCode": 4,
       "updatelogs": [
+        {
+          "version": "1.0.3",
+          "content": "- 🚸 显示互连错误详情，并消除虚假的接收失败提示"
+        },
         {
           "version": "1.0.2",
           "content": "- ⚡️ 优化激活体验"
@@ -93,10 +105,14 @@
       ]
     },
     "xmb10": {
-      "version": "1.0.2",
-      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.2.rpk",
-      "versionCode": 3,
+      "version": "1.0.3",
+      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.3.rpk",
+      "versionCode": 4,
       "updatelogs": [
+        {
+          "version": "1.0.3",
+          "content": "- 🚸 显示互连错误详情，并消除虚假的接收失败提示"
+        },
         {
           "version": "1.0.2",
           "content": "- ⚡️ 优化激活体验"
@@ -112,10 +128,14 @@
       ]
     },
     "xmb10nfc": {
-      "version": "1.0.2",
-      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.2.rpk",
-      "versionCode": 3,
+      "version": "1.0.3",
+      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.3.rpk",
+      "versionCode": 4,
       "updatelogs": [
+        {
+          "version": "1.0.3",
+          "content": "- 🚸 显示互连错误详情，并消除虚假的接收失败提示"
+        },
         {
           "version": "1.0.2",
           "content": "- ⚡️ 优化激活体验"
@@ -131,10 +151,14 @@
       ]
     },
     "xmb10p": {
-      "version": "1.0.2",
-      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.2.rpk",
-      "versionCode": 3,
+      "version": "1.0.3",
+      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.3.rpk",
+      "versionCode": 4,
       "updatelogs": [
+        {
+          "version": "1.0.3",
+          "content": "- 🚸 显示互连错误详情，并消除虚假的接收失败提示"
+        },
         {
           "version": "1.0.2",
           "content": "- ⚡️ 优化激活体验"
@@ -150,10 +174,14 @@
       ]
     },
     "xmb11": {
-      "version": "1.0.2",
-      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.2.rpk",
-      "versionCode": 3,
+      "version": "1.0.3",
+      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.3.rpk",
+      "versionCode": 4,
       "updatelogs": [
+        {
+          "version": "1.0.3",
+          "content": "- 🚸 显示互连错误详情，并消除虚假的接收失败提示"
+        },
         {
           "version": "1.0.2",
           "content": "- ⚡️ 优化激活体验"
@@ -169,10 +197,14 @@
       ]
     },
     "xmb11nfc": {
-      "version": "1.0.2",
-      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.2.rpk",
-      "versionCode": 3,
+      "version": "1.0.3",
+      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.3.rpk",
+      "versionCode": 4,
       "updatelogs": [
+        {
+          "version": "1.0.3",
+          "content": "- 🚸 显示互连错误详情，并消除虚假的接收失败提示"
+        },
         {
           "version": "1.0.2",
           "content": "- ⚡️ 优化激活体验"
@@ -188,10 +220,14 @@
       ]
     },
     "xmb9": {
-      "version": "1.0.2",
-      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.2.rpk",
-      "versionCode": 3,
+      "version": "1.0.3",
+      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.3.rpk",
+      "versionCode": 4,
       "updatelogs": [
+        {
+          "version": "1.0.3",
+          "content": "- 🚸 显示互连错误详情，并消除虚假的接收失败提示"
+        },
         {
           "version": "1.0.2",
           "content": "- ⚡️ 优化激活体验"
@@ -207,10 +243,14 @@
       ]
     },
     "xmb9p": {
-      "version": "1.0.2",
-      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.2.rpk",
-      "versionCode": 3,
+      "version": "1.0.3",
+      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.3.rpk",
+      "versionCode": 4,
       "updatelogs": [
+        {
+          "version": "1.0.3",
+          "content": "- 🚸 显示互连错误详情，并消除虚假的接收失败提示"
+        },
         {
           "version": "1.0.2",
           "content": "- ⚡️ 优化激活体验"
@@ -226,10 +266,14 @@
       ]
     },
     "xmws3": {
-      "version": "1.0.2",
-      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.2.rpk",
-      "versionCode": 3,
+      "version": "1.0.3",
+      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.3.rpk",
+      "versionCode": 4,
       "updatelogs": [
+        {
+          "version": "1.0.3",
+          "content": "- 🚸 显示互连错误详情，并消除虚假的接收失败提示"
+        },
         {
           "version": "1.0.2",
           "content": "- ⚡️ 优化激活体验"
@@ -245,10 +289,14 @@
       ]
     },
     "xmws4xring": {
-      "version": "1.0.2",
-      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.2.rpk",
-      "versionCode": 3,
+      "version": "1.0.3",
+      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.3.rpk",
+      "versionCode": 4,
       "updatelogs": [
+        {
+          "version": "1.0.3",
+          "content": "- 🚸 显示互连错误详情，并消除虚假的接收失败提示"
+        },
         {
           "version": "1.0.2",
           "content": "- ⚡️ 优化激活体验"
@@ -264,10 +312,14 @@
       ]
     },
     "xmws441": {
-      "version": "1.0.2",
-      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.2.rpk",
-      "versionCode": 3,
+      "version": "1.0.3",
+      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.3.rpk",
+      "versionCode": 4,
       "updatelogs": [
+        {
+          "version": "1.0.3",
+          "content": "- 🚸 显示互连错误详情，并消除虚假的接收失败提示"
+        },
         {
           "version": "1.0.2",
           "content": "- ⚡️ 优化激活体验"
@@ -283,10 +335,14 @@
       ]
     },
     "xmws4": {
-      "version": "1.0.2",
-      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.2.rpk",
-      "versionCode": 3,
+      "version": "1.0.3",
+      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.3.rpk",
+      "versionCode": 4,
       "updatelogs": [
+        {
+          "version": "1.0.3",
+          "content": "- 🚸 显示互连错误详情，并消除虚假的接收失败提示"
+        },
         {
           "version": "1.0.2",
           "content": "- ⚡️ 优化激活体验"
@@ -302,10 +358,14 @@
       ]
     },
     "xmws541": {
-      "version": "1.0.2",
-      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.2.rpk",
-      "versionCode": 3,
+      "version": "1.0.3",
+      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.3.rpk",
+      "versionCode": 4,
       "updatelogs": [
+        {
+          "version": "1.0.3",
+          "content": "- 🚸 显示互连错误详情，并消除虚假的接收失败提示"
+        },
         {
           "version": "1.0.2",
           "content": "- ⚡️ 优化激活体验"
@@ -321,10 +381,14 @@
       ]
     },
     "xmws5": {
-      "version": "1.0.2",
-      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.2.rpk",
-      "versionCode": 3,
+      "version": "1.0.3",
+      "file_name": "downloads/com.komoridev.tankturmoil.release.1.0.3.rpk",
+      "versionCode": 4,
       "updatelogs": [
+        {
+          "version": "1.0.3",
+          "content": "- 🚸 显示互连错误详情，并消除虚假的接收失败提示"
+        },
         {
           "version": "1.0.2",
           "content": "- ⚡️ 优化激活体验"
